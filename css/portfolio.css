@@ -61,6 +61,7 @@ body, html{
 
 .sites{
   border-radius: 10%;
+  max-width: 200px;
 }
 
 
