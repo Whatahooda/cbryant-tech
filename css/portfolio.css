@@ -70,6 +70,7 @@ body, html{
 footer{
   height: 65px;
   background-color: #777;
+  margin: 0;
 }
 
 footer h3{
