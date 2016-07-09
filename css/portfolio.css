@@ -61,6 +61,7 @@ body, html{
 
 .sites{
   border-radius: 10%;
+  max-width: 200px;
 }
 
 
@@ -69,6 +70,7 @@ body, html{
 footer{
   height: 65px;
   background-color: #777;
+  margin: 0;
 }
 
 footer h3{
